@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object>
+  <polygon points="-2,0 -14,0 -14,16 2,16 2,4 -2,4"/>
+ </object>
+</template>
